@@ -10,7 +10,7 @@ Cloud Architect in Business Intelligence and Analytics with over 13 years of exp
 
 **Senior Cloud Architect | L&amp;T Infotech | 2019- 2020**
 
-  - Data Lake on Cloud - aws - Designed cloud infrastructure and automation to implement dat lake on cloud with S3 as data store EMR (elastic map-reduce, Kinesis, Lambda, Step Functions and Redshift as data processing and consumption services)
+  - Data Lake on Cloud - aws - Designed cloud infrastructure and automation to implement data lake on cloud with S3 as data store EMR (elastic map-reduce, Kinesis, Lambda, Step Functions and Redshift as data processing and consumption services)
   - Designed and developed end-to-end cloud provisioning automation for Amazon web services to let customers self-provision aws services on cloud while adhering with enterprise security and implementation guidelines and abstracting complicities, Technologies - Terraform, Python, Node, MongoDB and Angular.
   - Created a fully automated self-service application to enable Bring-your-own-data strategy for next-gen BI reporting, this completely data-driven application now accounts for more than 30% of all the ETL jobs in the space and requires no development to add more data sources. This application reduced data intake time for BI applications from months to days and hours in many cases. With in-built log analytics, detailed usage stats and auto-resume. Technologies - AbInitio, Python, Unix Shell, SQL Server, Angular JS, AutoSys.
 
