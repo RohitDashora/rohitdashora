@@ -7,6 +7,7 @@ Cloud Architect in Business Intelligence and Analytics with over 13 years of exp
 **Work Experience**
 
 **Senior Customer Success Engineer | Databricks | 2020**
+  - Working!
 
 **Senior Cloud Architect | L&amp;T Infotech | 2019- 2020**
 
